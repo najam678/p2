@@ -21,7 +21,7 @@ public class Assignment1 {
         String name1="123Aa";
         char name2[];
         name2 = name1.toCharArray();
-        Alien obj=new Alien();
+        Alien obj=new Alien("A");
         int size=name1.length();
         Warrior a=new Warrior(name2,size);
         obj.attack(a);

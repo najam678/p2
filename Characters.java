@@ -12,7 +12,7 @@ package assignment1;
  */
 public  class Characters {
     private
-          int health;
+          int health;//nn
     public  Characters()
     {
        health=1;

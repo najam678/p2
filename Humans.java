@@ -16,7 +16,7 @@ public class Humans extends Characters {
     
     public Humans ()
     {
-     =
+     
     }
     public void explore( )
     {
